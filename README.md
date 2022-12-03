@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Segu Pavan Kumar</h1>
 <h3 align="center">A passionate Person who loves to code in Python programming language and love to work on Web Development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=segupavankumar&label=Profile%20views&color=0e75b6&style=flat" alt="segupavankumar" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=segupavankumar&label=Profile%20views&color=0e75b6&style=flat" alt="segupavankumar" /> </p> -->
 
 
 - 🔭 I’m currently working on [OnlineJudge](https://github.com/segupavankumar/OnlineJudge)
