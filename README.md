@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **pavan.giddalur2002@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1IuD5n7QQkj8B9mIQaFpiQHp0bVvR0hzA/view?usp=sharing](https://drive.google.com/file/d/1IuD5n7QQkj8B9mIQaFpiQHp0bVvR0hzA/view?usp=sharing)
+- 📄 Know about my experiences [resume link](https://drive.google.com/file/d/1elP-l9QbkTZnBARli6hymCO7jW2de4g3/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
